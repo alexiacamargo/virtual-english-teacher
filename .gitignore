@@ -1,5 +1,1 @@
-# Ignorar o diretório __pycache__
-__pycache__/
-
-# Ignorar o arquivo de chave da API
 key.env
